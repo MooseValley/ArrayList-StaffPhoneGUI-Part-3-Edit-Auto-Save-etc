@@ -3,9 +3,11 @@
 
 3. Write a Java program using GUI that contains a text area and a command button titled as “**Display**”. When the “Display” button is clicked, the program has to read data from an existing data file named "**staffphone.txt**" and displays all the data in the text area properly. The data in the file "staffphone.txt" has the following format:
 
+```
 John Pearson, 49308877
 Peter London, 49446701
 Amy Andersen, 45009923
+```
 
 In addition to the data, the text area has to display the total number of the phone entries at the end.
 
@@ -19,7 +21,7 @@ In addition to the data, the text area has to display the total number of the ph
 * Set Location
 
 4B. Mike's additions:
-Exit button
-Change to using Exception Handling
-Add / Edit using GUI controls - no more Swing Dialogs
+* Exit button
+* Change to using Exception Handling
+* Add / Edit using GUI controls - no more Swing Dialogs
 
