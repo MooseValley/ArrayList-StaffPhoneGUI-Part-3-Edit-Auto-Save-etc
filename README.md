@@ -25,3 +25,19 @@ In addition to the data, the text area has to display the total number of the ph
 * Change to using Exception Handling
 * Add / Edit using GUI controls - no more Swing Dialogs
 
+
+YouTube Videos where I develop a solution to these questions:
+
+* Java - ArrayList - StaffPhoneGUI - Part 1 - Read and Display a File
+
+https://www.youtube.com/watch?v=j-2K1WKWkKk&list=PLfKyhM9sqOY5bHuIgk_taSa7qEBh8EPce&index=10&t=0s
+
+* Java - ArrayList - StaffPhoneGUI - Part 2 - Add, Clear, Save to File
+
+https://www.youtube.com/watch?v=vLum9uY32v0&list=PLfKyhM9sqOY5bHuIgk_taSa7qEBh8EPce&index=11&t=0s
+
+* Java - ArrayList - StaffPhoneGUI - Part 3 - Edit, auto-save, etc
+
+https://www.youtube.com/watch?v=9KYiyhcQaGo&list=PLfKyhM9sqOY5bHuIgk_taSa7qEBh8EPce&index=12&t=0s
+
+EOF.
